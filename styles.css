@@ -1,0 +1,23 @@
+img{
+    width:30%;
+    margin: 1.6666%;
+}
+/*margin:calc(10%/6);*/
+
+nav{
+    font-size: 20px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width:30%;
+    margin: 1.6666%;
+    padding: 1.2em 0;
+    font-family: 'PT Serif', serif;
+}
+
+footer{
+    color:rgb(13, 28, 78);
+    border-top: 2px solid #f1f1f1;
+    border-bottom: 2px solid #f1f1f1;
+    padding: 1em 1em 1em 1em;
+    font-family: monospace;
+}
